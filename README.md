@@ -7,8 +7,6 @@ Switched careers in pursuit of powering the web with passionate, and meticulousl
 
 - 📫 Contact me via email: gokdeniz@gokdenizozkan.com
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokdenizozkan&theme=highcontrast&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false&layout=compact" alt="gokdenizozkan stats card" width="33%"/>
 <a href="https://www.java.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
 </a>
