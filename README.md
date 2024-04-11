@@ -1,5 +1,7 @@
 # Hi, you are looking at Gökdeniz's GitHub page! 👋
 
+Switched careers in pursuit of powering the web with passionate, and meticulously crafted software and services.
+
 ## ☀️ Currently
 
 - 👩‍💻 Working on **mektup**, a digital letter writing and sending app; and **kangal**, a Chrome extension to help with your job hunts.
@@ -7,8 +9,6 @@
 - 👁️‍🗨️ Learning Cloud with Microsoft Azure.
 
 ## 🚀 About
-
-Switched careers in pursuit of powering the web with passionate, and meticulously crafted software and services.
 
 ### Uses
 Uses ☕ Java, and Spring Boot. Has experience with Docker, Solr, Java Swing.
