@@ -1,6 +1,7 @@
-# Hi, you are looking at Gökdeniz's GitHub page! 👋
+# Hi, welcome! 👋
 
-Switched careers in pursuit of powering the web with passionate, and meticulously crafted software and services.
+Self-taught Java Developer in pursuit of powering the web with passionate, and meticulously crafted software and services.  
+Open to work!
 
 ## ☀️ Currently
 
@@ -14,7 +15,8 @@ Switched careers in pursuit of powering the web with passionate, and meticulousl
 Uses ☕ Java, and Spring Boot. Has experience with Docker, Solr, Java Swing.
 
 ### Endeavours
-As a hobby, he develops 🎲 **kaliptus**, a video game inspired by Civilization series. He is open to advices on learning how to play guitar.
+As a hobby, he develops 🎲 **kaliptus**, a video game inspired by Civilization series.  
+He is open to advices on learning how to play guitar.
 
 ---
 
