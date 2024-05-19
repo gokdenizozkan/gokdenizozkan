@@ -5,9 +5,8 @@ Open to work!
 
 ## ☀️ Currently
 
-- 👩‍💻 Working on **mektup**, a digital letter writing and sending app; and **kangal**, a Chrome extension to help with your job hunts.
+- 👩‍💻 Enrolled in iWallet Ruby on Rails Bootcamp, hence, learning Ruby on Rails! Working on its **capstone project**.
 - 📖️ Improving his Computer Science fundamentals through Boot.dev, Algorithm Books, and Courses from Universities found on Coursera.
-- 👁️‍🗨️ Learning Cloud with Microsoft Azure.
 
 ## 🚀 About
 
