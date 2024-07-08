@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">Self-taught Backend Developer  in pursuit of powering the web with passionate, and meticulously crafted software and services.<br><br>Writes practical guides on <a href="https://blog.gokdenizozkan.com">Medium</a>.<br><br>Hobbyist game developer.<br><br><b>Currently:</b><br>👩‍💻 Developing mektup, a digital letter writing and reading service. (Java Spring Boot)<br>🎲 Working on deathby, a 2D routine exploration game as a hobby. (Java Spring Boot & Godot)</p>
-
-###
-
-<h2 align="left">Contacts</h2>
+<p align="left">☀️ Self-taught Backend Developer  in pursuit of powering the web with passionate, and meticulously crafted software and services.<br><br>✍️ Writes practical guides on <a href="https://blog.gokdenizozkan.com">Medium</a>.<br><br>🕹️ Hobbyist game developer.<br><br><b>Currently:</b><br>👩‍💻 Developing mektup, a digital letter writing and reading service. (Java Spring Boot)<br>🎲 Working on deathby, a 2D routine exploration game as a hobby. (Java Spring Boot & Godot)</p>
 
 ###
 
@@ -20,12 +16,6 @@
   <a href="mailto:gokdeniz@gokdenizozkan.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=gokdenizozkan&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ###
@@ -46,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
 ###
@@ -70,6 +68,22 @@
 
 ###
 
+<h3 align="left">Tools & OS</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+</div>
+
+###
+
 <h3 align="left">Others & Game Dev</h3>
 
 ###
@@ -90,10 +104,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gokdenizozkan/gokdenizozkan/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/gokdenizozkan/count.svg?"  />
 </div>
+
+###
