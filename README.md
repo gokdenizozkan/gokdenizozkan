@@ -1,29 +1,99 @@
-# Hi, welcome! 👋
+<h1 align="left"><about>Gökdeniz Özkan</></h1>
 
-Self-taught Java Developer in pursuit of powering the web with passionate, and meticulously crafted software and services.  
-Open to work!
+###
 
-## ☀️ Currently
+<p align="left">Self-taught Backend Developer  in pursuit of powering the web with passionate, and meticulously crafted software and services.<br><br>Writes practical guides on <a href="https://blog.gokdenizozkan.com">Medium</a>.<br><br>Hobbyist game developer.<br><br><b>Currently:</b><br>👩‍💻 Developing mektup, a digital letter writing and reading service. (Java Spring Boot)<br>🎲 Working on deathby, a 2D routine exploration game as a hobby. (Java Spring Boot & Godot)</p>
 
-- 👩‍💻 Enrolled in iWallet Ruby on Rails Bootcamp, hence, learning Ruby on Rails! Working on its **capstone project**.
-- 📖️ Improving his Computer Science fundamentals through Boot.dev, Algorithm Books, and Courses from Universities found on Coursera.
+###
 
-## 🚀 About
+<h2 align="left">Contacts</h2>
 
-### Uses
-Uses ☕ Java, and Spring Boot. Has experience with Docker, Solr, Java Swing.
+###
 
-### Endeavours
-As a hobby, he develops 🎲 **kaliptus**, a video game inspired by Civilization series.  
-He is open to advices on learning how to play guitar.
+<div align="center">
+  <a href="https://linkedin.com/in/gokdenizozkan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@gokdenizozkan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="mailto:gokdeniz@gokdenizozkan.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-📫 Contact via email: <a href="mailto:gokdeniz@gokdenizozkan.com">gokdeniz@gokdenizozkan.com</a>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=gokdenizozkan&theme=default" alt="Layout with last medium posts"  />
+</div>
 
-<a href="https://www.java.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="40" />
-</a>
-<a href="https://spring.io/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="40" width="40" />
-</a>
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<h3 align="left">Backend</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge" height="40" alt="rails logo"  />
+</div>
+
+###
+
+<h3 align="left">Frontend</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=black&style=for-the-badge" height="40" alt="bulma logo"  />
+</div>
+
+###
+
+<h3 align="left">Others & Game Dev</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gokdenizozkan/gokdenizozkan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gokdenizozkan/count.svg?"  />
+</div>
