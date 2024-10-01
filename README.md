@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">☀️ Self-taught Backend Developer  in pursuit of powering the web with passionate, and meticulously crafted software and services.<br><br>✍️ Writes practical guides on <a href="https://blog.gokdenizozkan.com">Medium</a>.<br><br>🕹️ Hobbyist game developer.<br><br><b>Currently:</b><br>👩‍💻 Developing mektup, a digital letter writing and reading service. (Java Spring Boot)<br>🎲 Working on deathby, a 2D routine exploration game as a hobby. (Java Spring Boot & Godot)</p>
+<p align="left">☀️ Self-taught Java Developer in pursuit of powering the web with passionate, and meticulously crafted software and services.<br><br>✍️ Writes practical guides on <a href="https://blog.gokdenizozkan.com">Medium</a>.<br><br>🕹️ Hobbyist game developer.<br><br></p>
 
 ###
 
